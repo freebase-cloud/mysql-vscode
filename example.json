@@ -1,0 +1,6 @@
+{
+  "name": "mysql-vscode",
+  "engine": "mysql",
+  "slug": "mysql",
+  "kind": "starter"
+}
